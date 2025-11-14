@@ -20,8 +20,7 @@ The documentation here applies to all DHC repositories, including:
 ├── README.md # You are here
 │
 ├── architecture/
-│ ├── environment-strategy.md # Release tiers: alpha/beta/stage/prod
-│ └── branching-model.md # How branches map to environments
+│ └── dhc-short-architecture.md # Short initial version of the DigitalHome.Cloud environment and platform architecture.
 ```
 ## 📜 License
 
